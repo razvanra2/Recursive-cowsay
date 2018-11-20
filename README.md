@@ -2,7 +2,7 @@
 This is a recursive little script that creates a recursive cowsay program
 
 
-##Run instructions:
+## Run instructions:
 ./moo.sh N message
 Where: 
 N is the number of times you want the (for lack of a better term) recursive cow to appear
