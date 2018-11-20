@@ -1,5 +1,5 @@
 # Recursive-cowsay
-This is a recursive little script that creates a recursive cowsay program
+This is a little script that creates a recursive cowsay program
 
 
 ## Run instructions:
